@@ -64,16 +64,6 @@ Metrics:
 
 ---
 
-## 📁 Project Structure
-
-AirBnB Stock Price Prediction/
-```│── data/
-│── notebooks/
-│── src/
-│── README.md
-│── requirements.txt
-```
-
 
 ---
 
@@ -88,3 +78,4 @@ AirBnB Stock Price Prediction/
 - Add LSTM/GRU deep learning models  
 - Deploy model using Flask or Streamlit  
 - Integrate real-time stock market API  
+
